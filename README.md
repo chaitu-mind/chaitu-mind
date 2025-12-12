@@ -1,6 +1,6 @@
 # ![Banner](https://via.placeholder.com/1200x200?text=Professional+Tech+Banner)
 
-**Chaithanya Reddy**  
+**Chaithanya Reddy 4334**  
 ![Typing SVG](https://readme-typing-svg.petersobolev.com/api?font=Source+Code+Pro&size=22&duration=4000&color=1E90FF&lines=Tech+Developer+%7C+Innovator+%7C+Problem+Solver)
 
 ## About Me
